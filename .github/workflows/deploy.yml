@@ -30,17 +30,14 @@ jobs:
       - name: Install dependencies (ignore peer conflicts)
         run: npm install --legacy-peer-deps
 
-      - name: Build Next.js project
+      - name: Build Next.js project (generates static output)
         run: npm run build
-
-      - name: Export static files
-        run: npm run export
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out
-
+          path: ./out  # Next.js 13 outputs static site here with `output: 'export'`
+  
   deploy:
     runs-on: ubuntu-latest
     needs: build
