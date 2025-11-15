@@ -10,7 +10,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: process.env.NODE_ENV === 'production' ? 'https://github.com/HarshaMadhushan/HarshaMadhushan.github.io' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/HarshaMadhushan.github.io' : '',
 };
 
 export default nextConfig;
