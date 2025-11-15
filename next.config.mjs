@@ -1,16 +1,10 @@
 /** @type {import('next').NextConfig} */
+/** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true,
-  },
-  images: {
-    unoptimized: true,
-  },
-  basePath: process.env.NODE_ENV === 'production' ? '/your-repo-name' : '',
+  // Optional: uncomment and set if using GitHub Pages subpath
+  basePath: 'https://github.com/HarshaMadhushan/HarshaMadhushan.github.io',
 };
 
-export default nextConfig;
+module.exports = nextConfig;
+
