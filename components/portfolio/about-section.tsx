@@ -99,7 +99,8 @@ export function AboutSection({ description, image, stats }: AboutSectionProps) {
           >
             <div className="relative aspect-square overflow-hidden rounded-3xl border-2 border-primary/30 bg-gradient-to-br from-primary/10 to-transparent shadow-[0_0_50px_rgba(0,212,255,0.2)] backdrop-blur-sm">
               <Image
-                src={image || "/Harsha_Madhushan.png?height=600&width=600"}
+                //src={image || "/Harsha_Madhushan.png?height=600&width=600"}
+                src={"/Harsha_Madhushan.png"}
                 alt="Professional portrait"
                 fill
                 className="object-cover"
