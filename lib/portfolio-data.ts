@@ -1,5 +1,5 @@
 export const portfolioData = {
-  name: "Your Name",
+  name: "Harsha Madhushan",
   title: "Full Stack Engineer",
   subtitle: "Building scalable systems and elegant user experiences",
   
