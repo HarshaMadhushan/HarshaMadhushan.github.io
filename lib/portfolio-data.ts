@@ -5,7 +5,7 @@ export const portfolioData = {
   
   about: {
     description: "An Electrical and Automation Engineer focused on Industrial SCADA, real-time data systems, electrical design, and Industrial IoT. Passionate about building practical, data-driven automation solutions to make industrial processes smarter and more efficient.",
-    image: "/HarshaMadhushan.github.io/Harsha_Madhushan.png",
+    image: "/Harsha_Madhushan.png",
     stats: [
       { label: "Years Experience", value: "5+" },
       { label: "Projects Delivered", value: "50+" },
@@ -62,7 +62,7 @@ export const portfolioData = {
       title: "AI-Powered Analytics Platform",
       description: "Real-time data analytics platform with AI-driven insights and predictive modeling for enterprise clients.",
       fullDescription: "A comprehensive analytics platform that leverages artificial intelligence to provide real-time insights and predictive modeling for enterprise clients. The platform processes over 100 million events daily, offering advanced data visualization, anomaly detection, and customizable dashboards. Built with scalability and performance in mind, it serves Fortune 500 companies across multiple industries.",
-      image: "/analytics-dashboard.png",
+      image: "/public/analytics-dashboard.png",
       technologies: ["Python", "TensorFlow", "React", "AWS"],
       impact: "Processing 100M+ events daily",
       link: "#",
