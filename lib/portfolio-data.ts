@@ -1,11 +1,11 @@
 export const portfolioData = {
   name: "Harsha Madhushan",
   title: "Electrical & Automation Engineer",
-  subtitle: "Building scalable systems and elegant user experiences",
+  subtitle: "Industrial SCADA • Automation • Real-Time Data • Electrical Design • Industrial IoT",
   
   about: {
-    description: "Experienced engineer specializing in full-stack development with a passion for creating robust, user-centric applications. Proven track record in building scalable systems and leading technical initiatives across diverse industries.",
-    image: "/professional-engineer-portrait.png",
+    description: "An Electrical and Automation Engineer focused on Industrial SCADA, real-time data systems, electrical design, and Industrial IoT. Passionate about building practical, data-driven automation solutions to make industrial processes smarter and more efficient.",
+    image: "/profile_photo.jpg",
     stats: [
       { label: "Years Experience", value: "5+" },
       { label: "Projects Delivered", value: "50+" },
