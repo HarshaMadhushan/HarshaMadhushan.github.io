@@ -1,6 +1,6 @@
 export const portfolioData = {
   name: "Harsha Madhushan",
-  title: "Full Stack Engineer",
+  title: "Electrical & Automation Engineer",
   subtitle: "Building scalable systems and elegant user experiences",
   
   about: {
