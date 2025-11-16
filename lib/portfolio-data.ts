@@ -7,18 +7,18 @@ export const portfolioData = {
     description: "An Electrical and Automation Engineer focused on Industrial SCADA, real-time data systems, electrical design, and Industrial IoT. Passionate about building practical, data-driven automation solutions to make industrial processes smarter and more efficient.",
     image: "/Harsha_Madhushan.png",
     stats: [
-      { label: "Years Experience", value: "5+" },
-      { label: "Projects Delivered", value: "50+" },
-      { label: "Client Satisfaction", value: "98%" },
+      { label: "Years Experience", value: "1+" },
+      { label: "Projects Delivered", value: "1" },
+      { label: "Client Satisfaction", value: "100%" },
     ]
   },
 
   experience: [
     {
-      title: "Senior Software Engineer",
-      company: "Tech Corp",
-      location: "San Francisco, CA",
-      period: "2022 - Present",
+      title: "Real-Time SCADA System Design",
+      company: "Hemas Manufacturing (Pvt) Ltd",
+      location: "Dankotuwa, Sri Lanka.",
+      period: "2025 - 2026",
       description: "Leading development of cloud-native microservices architecture, mentoring junior engineers, and driving technical strategy for flagship products.",
       achievements: [
         "Architected scalable backend systems serving 1M+ users",
