@@ -5,7 +5,7 @@ export const portfolioData = {
   
   about: {
     description: "An Electrical and Automation Engineer focused on Industrial SCADA, real-time data systems, electrical design, and Industrial IoT. Passionate about building practical, data-driven automation solutions to make industrial processes smarter and more efficient.",
-    image: "https://github.com/HarshaMadhushan/HarshaMadhushan.github.io/blob/main/public/professional-engineer-portrait.png",
+    image: "public/professional-engineer-portrait.png",
     //image: "harshamadhushan.github.io/HarshaMadhushan.github.io/public/professional-engineer-portrait.png",
     stats: [
       { label: "Years Experience", value: "1+" },
